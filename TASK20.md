@@ -1,0 +1,2 @@
+> # Task 20
+> > ## Build a test suite for your React app using Jest. Write unit tests and integration tests for your components, and use Jest's snapshot testing feature to compare component renderings.
