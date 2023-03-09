@@ -1,5 +1,5 @@
 > # Task 2
-> > Build a component that displays a button.
+>  ## Build a component that displays a button.
 
 ILO: This will help you understand the basics of component structure and how to pass props.
  
