@@ -1,0 +1,3 @@
+> # Task 16
+> > ## Build a social media app with React and Tailwind CSS that allows users to create posts, comment on posts, and like posts. The app should have multiple pages, including a newsfeed page, a profile page, and a search page.
+ > 🗒️ React has a rich ecosystem of libraries and tools that can make development easier and faster. Some popular libraries and tools include React Router, Redux, Axios, and Jest, and any CSS Libary.
